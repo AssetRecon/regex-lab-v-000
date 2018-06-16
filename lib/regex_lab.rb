@@ -1,5 +1,5 @@
 def starts_with_a_vowel?(word)
-puts word.match(/\b[aeiou]\w*/i).class = MatchData
+puts word.match(/\b[aeiou]\w*/i).class == MatchData
 puts word
 
 end
