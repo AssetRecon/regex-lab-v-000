@@ -1,5 +1,5 @@
 def starts_with_a_vowel?(word)
-  word.match(/\A[aeiou]/) == word
+puts  word.match(/\A[aeiou]/) == word
 
 end
 
@@ -18,3 +18,5 @@ end
 def valid_phone_number?(phone)
 
 end
+
+starts_with_a_vowel("afoot Excellent incredible Absolute unreal Inconceivable octopus")
