@@ -20,4 +20,4 @@ def valid_phone_number?(phone)
 
 end
 
-starts_with_a_vowel?("afoot Excellent incredible Absolute unreal Inconceivable octopus")
+starts_with_a_vowel?("caloof")
